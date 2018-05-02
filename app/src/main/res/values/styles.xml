@@ -1,0 +1,33 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.NoActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">#4CAF50</item>
+        <item name="colorPrimaryDark">#1B5E20</item>
+        <item name="colorAccent">@color/colorAccent</item>
+    </style>
+
+    <!-- Style for Company Name -->
+    <style name="CompanyTextAppearance">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:paddingTop">24dp</item>
+        <item name="android:paddingRight">24dp</item>
+        <item name="android:paddingLeft">24dp</item>
+        <item name="android:gravity">center_vertical</item>
+        <item name="android:textAllCaps">true</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:textColor">#1B5E20</item>
+        <item name="android:textSize">24sp</item>
+    </style>
+
+    <style name="LinkTextAppearance">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">16dp</item>
+        <item name="android:paddingLeft">12sp</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:textColor">#4CAF50</item>
+        <item name="android:textSize">12sp</item>
+    </style>
+
+</resources>

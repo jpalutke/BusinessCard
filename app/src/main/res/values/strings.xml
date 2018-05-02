@@ -1,0 +1,13 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="app_name">Business Card</string>
+    <string name="background_image_description">Truck on California Highway</string>
+    <string name="company_name">RS Transport LLC</string>
+    <string name="company_address">4111 Kauth Dr \u2022 Wisconsin Rapids, WI \u2022 54494</string>
+    <string name="company_address_landscape">4111 Kauth Dr \nWisconsin Rapids, WI 54494</string>
+    <string name="www_rs_transport_com">www.RStransport.com</string>
+    <string name="company_phone" tools:ignore="TypographyDashes">715–555-1212</string>
+    <string name="map_peg_image_description">map peg image</string>
+    <string name="link_icon">link icon</string>
+    <string name="phone_icon">phone icon</string>
+    <string name="what_where_when">\nWhat you want!\n\u2022\nWhere you want!\n\u2022\nWhen you want it!\n\u2022\nContact Us</string>
+</resources>
